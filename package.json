@@ -187,7 +187,7 @@
     "cypress-wait-until": "^1.7.1",
     "cypress-webpack-preprocessor-v5": "^5.0.0-alpha.1",
     "desvg-loader": "^0.1.0",
-    "doctoc": "^1.4.0",
+    "doctoc": "^2.0.1",
     "eslint": "^7.24.0",
     "eslint-plugin-dcr": "https://github.com/guardian/eslint-plugin-dcr#v0.1.0",
     "fetch-mock": "^9.11.0",
